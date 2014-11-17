@@ -3,5 +3,7 @@
 
 .idea/
 
+.sass-cache/
+
 _drafts/
 _site/
