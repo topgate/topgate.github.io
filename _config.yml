@@ -13,4 +13,4 @@ url: "https://topgate.github.io" # the base hostname & protocol for your site
 markdown: kramdown
 
 timezone: Asia/Tokyo
-exclude: [Gemfile, Gemfile.lock]
+exclude: [README.md, Gemfile, Gemfile.lock]
