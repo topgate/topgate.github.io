@@ -1,5 +1,8 @@
 # 社員の皆様へ
 
+[jekyll](http://jekyllrb.com/docs/quickstart/)というツールを使ってます。
+GitHub側で自動的にビルドされてデプロイされます。そんな機能あったんやな。
+
 ## 準備
 
 1. Ruby入れる
