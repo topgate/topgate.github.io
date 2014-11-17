@@ -19,3 +19,7 @@ GitHub側で自動的にビルドされてデプロイされます。そんな�
 4. たぶん [http://localhost:4000/](http://localhost:4000/) とかで動作確認する
 5. pull request 出す
 6. 誰かにレビューしてもらってmergeされたら10分くらいで反映されるはず
+
+## Qiitaから移植する時のサンプル
+
+https://github.com/topgate/topgate.github.io/pull/1 参照
