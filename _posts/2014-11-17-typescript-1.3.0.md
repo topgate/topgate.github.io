@@ -1,10 +1,10 @@
 ---
 layout: post
+author: vvakame
 title: TypeScript 1.3.0 変更点
+tags:
+- TypeScript
 ---
-
-{{ page.title }}
-================
 
 TypeScriptリファレンスお買い上げありがとうございます！ [Amazon](http://www.amazon.co.jp/gp/product/484433588X?ie=UTF8&camp=1207&creative=8411&creativeASIN=484433588X&linkCode=shr&tag=damenako-22) [達人出版会](http://tatsu-zine.com/books/typescript-reference)
 1.0.0の書籍なのですが、基本は変わってないので僕のQiitaの記事をフォローしてもらえればだいたいオッケーです(きり
