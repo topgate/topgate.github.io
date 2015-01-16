@@ -1,13 +1,13 @@
 ---
 layout: post
 author: yukinasu
-title: Google Compute Engine から Google Cloud StrageにImageをアップロードする
+title: カスタマイズしたVMマシンイメージをGoogle Compute Engine から Google Cloud Storageにアップロードして共有する
 tags:
 - GoogleComputeEngine
 ---
 
 こんにちは、[yukinasu](https://twitter.com/yukinasu715)です。
-今回は、Google Compute Engine(以降、GCEと記述)のImageをGoogle Cloud Strage(以降、GCSと記述)にアップロードする方法を紹介します。
+今回は、Google Compute Engine(以降、GCEと記述)のImageをGoogle Cloud Storage(以降、GCSと記述)にアップロードする方法を紹介します。
 
 この方法を利用すると
 * 自分がカスタマイズしたImageを共有する
